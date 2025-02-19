@@ -98,7 +98,7 @@ Examples
 |FTP|Provides access to the files on an FTP server.
 a|URI Format
 
-`+tp://[ username[: password]@] hostname[: port][ relative-path]+`
+`+ftp://[ username[: password]@] hostname[: port][ relative-path]+`
 
 Examples
 
